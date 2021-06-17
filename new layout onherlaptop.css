@@ -418,14 +418,24 @@ background-image: linear-gradient(326deg, #861657 0%, #ffa69e 74%);
 
 }
 
+
+.caseStudyTitle{
+
+     font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: #dfa18a;
+
+}
+
 #webContCaseStudy1{
 
 
-   margin: 0 auto;
-   text-align: center;
-    font-weight:bold;
- 
-    padding: 10px; 
-
+  margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
