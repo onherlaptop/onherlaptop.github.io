@@ -1,0 +1,413 @@
+
+
+*{
+
+  margin: 0;
+  box-sizing: border-box;
+
+} 
+
+
+body {
+
+ font-family: 'Poppins', 'Arial', sans-serif;
+
+
+}
+
+
+#flexDivHeader {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     padding-top: 25px;
+     color: white;
+     background-color: #bdbbbc;
+    background-image: linear-gradient( 
+315deg
+ , #f5eef1 0%, #d2d2d2 74%);
+
+
+
+
+} 
+
+
+
+#hi {
+
+      margin-left: 23px; 
+
+} 
+
+
+
+
+
+
+#blurbDiv{
+
+   margin-top: -41px;
+    text-align: center;
+    font-weight: bold;
+    color:#25b6c6;
+
+
+}
+
+
+ 
+
+
+#blurbPP{
+
+margin: 0 auto;
+text-align: center;
+
+font-weight: bold;
+margin-top: 10px;
+font-size: 1.5em;
+}
+ 
+
+
+
+#certificationsContainer{
+
+  margin-top: 0 auto;
+  text-align:center;
+
+
+
+}
+
+
+
+#myCertsP {
+
+    text-align: center;
+    font-weight:  bold;
+
+
+}
+
+   
+
+
+   
+  
+ #workBtn{
+    position: relative;
+    display: inline-block;
+    border-style: none;
+    /* background-color: #ea3730; */
+     background-color: #e0d9d9;
+    /* color: #ecc8c8; */
+     color:#ea3730;
+     border-radius: 9px;
+     width: 100px;
+     height: 40px;
+     padding: 5px;
+     font-size: 15px;
+     margin-top: 30px;
+ 
+ 
+  }  
+
+
+  #certifications{
+
+    margin-top: 15px;
+    /*display: flex; */
+  } 
+
+
+
+  .hubacademybadge{
+
+    /*justify-content: space-evenly;
+    align-items:center; */
+
+    display: block;
+  padding: 8px;
+  }
+
+
+  li{
+      display:inline;
+      list-style: none;
+  }   
+
+ a{
+      margin: 15px;
+      text-decoration: none;
+      color: #ea3730;
+      
+  }
+
+
+  a:active {
+    color: #e7d9d8;
+} 
+
+a:visited {
+
+  color:#e7d9d8;
+}
+
+
+
+
+
+
+
+
+
+
+
+.wrapper{
+
+   margin-top: 100px;
+
+}
+
+background-color: #861657;
+background-image: linear-gradient(326deg, #861657 0%, #ffa69e 74%);
+
+
+@media only screen and (min-width: 478px) {
+    #onherlaptopgirl {
+      width: 92vh;
+      text-align: center;
+     }
+  }  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  #clients{
+    margin:0 auto;
+    text-align:center;
+    width: 100%; 
+    background: black;
+    
+  } 
+
+  #clientsWorkedWithP{
+    color: white; 
+    margin-top: 20px;
+    margin-bottom: 5px;
+
+  }
+
+
+  .clientList{
+    background-color: black;
+    padding: 20px; 
+    
+  }
+  .clientsImg{
+    width: 200px;
+    height: 60px;
+  }
+
+
+
+  #pracRealEstPic{
+    width: 200px;
+    height: 50px;
+
+    width: 15em;
+    height: 4em;
+  } 
+
+  #freshGroundPic{
+    width: 300px;
+    height: 30px;
+
+    width: 17em;
+    height: 2em;
+  } 
+
+  #izmClientPic{
+    width: 184px;
+    height: 35px;
+
+    width: 13em;
+    height: 3em;
+  }
+
+
+
+
+
+
+
+@media screen and (max-width:477px) {
+  
+   #onherlaptopgirl {
+       width: 53vh;
+      text-align: center;
+     display: block;
+     } 
+
+   #flexDivHeader {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    
+    background-image: linear-gradient( 
+315deg
+ , #e6e2e4 0%, #bfbdbd 74%);
+}
+
+
+ #hiH {
+  
+   padding-top: 20px;
+
+   } 
+
+  #imgAccounting{
+    width: 100%;
+    height: 30%;
+     
+   margin-top: 20px;
+   padding: 10px;
+   }
+
+    #imgAccounting2 {
+    width: 80%;
+    height: 30%;
+   }
+
+}
+
+
+
+
+
+#pastWorkTitle {
+
+   margin: 0 auto;
+
+
+}
+
+#pastWorkH2{
+
+    font-weight: bold;
+    font-size: 2.5em;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 55px;
+    color: black;
+}
+
+
+#portfolioDiv{
+
+    margin: 0 auto;
+    text-align: center;
+
+    background-color: #ff4d40;
+    background-image: linear-gradient(
+326deg
+, #ff4834 0%, #ff6f00 74%);
+
+
+
+}
+
+
+
+#portfolioDiv2{
+
+   margin: 0 auto;
+    text-align: center;
+    background-color: #ff4d40;
+    background-image: linear-gradient( 
+   326deg
+ , #ff4834 0%, #ff6f00 74%); 
+
+ 
+
+
+}
+
+
+
+
+
+ #imgAccounting{
+   
+   margin-top: 20px;
+
+     width: 80%;
+    height: 30%;
+
+   
+   }  
+
+
+
+#imgFreshlyBlog{
+
+    margin-top: 15px;
+    width: 60%;
+    height: 30%;
+    margin-bottom: -3px;
+}
+
+   
+
+
+#slideShowDots1{
+
+    text-align: center;
+    margin-bottom: 83px;
+
+
+} 
+
+
+#slideShowDots2{
+
+    text-align: center;
+    margin-bottom: 83px;
+
+
+}
+
+
+#caseStudyContainer {
+
+       margin-top: 5em;
+    margin-bottom: 5em;
+
+
+}
+
+#webContCaseStudy1{
+
+
+   margin: 0 auto;
+   text-align: center;
+    font-weight:bold;
+ 
+    padding: 10px; 
+
+}
+
